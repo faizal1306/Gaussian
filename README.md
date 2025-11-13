@@ -1,7 +1,7 @@
-### Date : 
 # Gaussian Elimination
-## Name: Mohamed Faizal m
-## reg no:24000006
+## Name: Mohamed Faizal M
+## reg no:212223243002
+## Date :
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
