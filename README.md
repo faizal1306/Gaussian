@@ -1,6 +1,6 @@
 # Gaussian Elimination
 ## Name: Mohamed Faizal M
-## reg no:212223243002
+## Reg no:212223243002
 ## Date :
 
 ## AIM:
